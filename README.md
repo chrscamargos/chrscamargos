@@ -34,9 +34,9 @@ Currently deepening my skills in **Java**, **SQL**, **HTML**, **CSS**, and **Fig
 
 
 ```
-◈  Class     →  Back-end / Front-end Apprentice
-◈  Origin    →  Brazil
-◈  Status    →  Shining.
+◈  Role      →  Back-end / Front-end Apprentice
+◈  Age       →  19
+◈  Location  →  São Paulo, Brazil
 ```
 
 <br clear="right"/>
@@ -59,6 +59,9 @@ Currently deepening my skills in **Java**, **SQL**, **HTML**, **CSS**, and **Fig
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=c9a84c)
 
 </div>
+
+<hr style="height:3px;border:none;background-color:#30363d;margin:20px 0;">
+
 
 ## Statistics
 
