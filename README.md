@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=najuiamnc&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=chrscamargos&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
 
 </div>
 
@@ -31,7 +31,7 @@ ever met in my life."*
 
 Currently deepening my skills in **Java**, **SQL**, **HTML**, **CSS**, and **Figma**. Applying them daily through hands-on projects at **SENAI Suíço-Brasileiro**.
 
-<img align="right" width="240px" src="jackstare.jpg"/>
+
 
 ```
 ◈  Class     →  Back-end / Front-end Apprentice
