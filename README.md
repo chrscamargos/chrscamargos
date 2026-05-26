@@ -55,6 +55,7 @@ Currently deepening my skills in **Java**, **SQL**, **HTML**, **CSS**, and **Fig
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-111?style=for-the-badge&logo=intellijidea&logoColor=c9a84c)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=c9a84c)
 ![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma&logoColor=c9a84c)
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=c9a84c)
 
