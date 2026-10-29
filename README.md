@@ -18,6 +18,8 @@ delivery app:        food delivery mobile app
 PS C:\Users\christian> .\contact.exe
 ```
 
-[github](https://github.com/chrscamargos) · [linkedin](https://www.linkedin.com/in/chrscamargos/) · [email](chrscamargos@gmail.com) · [instagram](https://instagram.com/deoxysnaive)
+[github](https://github.com/chrscamargos) · [linkedin](https://www.linkedin.com/in/chrscamargos/) · [email](mailto:chrscamargos@gmail.com) · [instagram](https://instagram.com/deoxysnaive)
 
 <sub>code is the closest we will ever get to God.</sub>
+
+<div align="center"> <img src="./assets/github.gif" width="100%" alt="github"> </div>
