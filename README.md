@@ -4,7 +4,8 @@
 PS C:\Users\christian> cat about.log
 technical course:    senai · systems development
 degree:              uam · computer science
-focus:               full-stack · java · spring boot · sql
+focus:               full-stack · java · spring boot · sql · react
+email:               chrscamargos@gmail.com
 
 PS C:\Users\christian> cat stack.txt
 java  spring-boot  sql  javascript  react  react-native  html  css
